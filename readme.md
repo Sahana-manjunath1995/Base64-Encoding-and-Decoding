@@ -1,4 +1,4 @@
-# Encoding and decoding of characters using base62
+# Base64 Encoding and Decoding
 
 The main goal of this project is to encode the given input and provide decoded characters as output.
 
